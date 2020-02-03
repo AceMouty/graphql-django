@@ -8,8 +8,10 @@ flake8 = "*"
 
 [packages]
 django = "*"
-graphene = "*"
 python-decouple = "*"
+graphene-django = "*"
+django-filter = "*"
+django-graphql-jwt = "*"
 
 [requires]
 python_version = "3.8"
